@@ -1,5 +1,7 @@
 # Emotion Detection — CS362 Project
 
+https://emotion-detection-model-py.streamlit.app/
+
 A text-based emotion detection model that classifies tweets as Joy, Sadness, or Anger
 using Logistic Regression and TF-IDF vectorization.
 
